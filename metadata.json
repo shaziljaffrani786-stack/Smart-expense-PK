@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense PK",
+  "description": "Smart Expense PK is an intelligent, Material Design 3 expense-tracking application customized for Pakistani users, featuring local budgeting, detailed charts, and AI-powered insights in PKR (Rs).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
